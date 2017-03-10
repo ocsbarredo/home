@@ -1,0 +1,37 @@
+body
+{
+	background-image: url("Glossary.jpg");
+	margin: 10%;
+	padding: 5%;
+}
+dt
+{
+	background: lightblue;
+	border: double yellow;
+	margin:5%;
+	color: red;
+	font-family: serif;
+	padding:1%
+}
+dd
+{
+	background: white;
+	margin: 5%;
+	border: solid red;
+	font-family: serif;
+	color: green;
+	padding: 1%;
+}
+h1
+{
+	text-align: center;
+	padding: 10px;
+	font-family: serif;
+	color: Turquoise;
+	border: Solid Red;
+}
+dl
+{
+	background-color:pink;
+	padding:40px;
+}
