@@ -24,3 +24,8 @@ h1
 	color:orange;
 	border: Solid Red;
 }
+img
+{
+	display:Block;
+	margin:auto;
+} /*img*/
