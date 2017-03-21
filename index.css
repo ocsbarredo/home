@@ -1,5 +1,6 @@
 body
 {
+	display:Block;
 	background:gray;
 	padding:5%;
 	text-align:center;
@@ -26,6 +27,6 @@ h1
 }
 img
 {
-	display:Block;
+
 	margin:auto;
 } /*img*/
