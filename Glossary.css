@@ -35,3 +35,12 @@ dl
 	background-color:pink;
 	padding:40px;
 }
+p
+{
+	background: white;
+	margin: 5%;
+	border: solid blue;
+	font-family: serif;
+	color: Red;
+	padding: 1%;
+}
